@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lista de Tareas</string>
+    <string name="titulo">Lista de Tareas</string>
+    <string name="edt_ingresar">Ingresa la nueva nota</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="btn_nueva">Ingresa la nueva nota</string>
+</resources>
